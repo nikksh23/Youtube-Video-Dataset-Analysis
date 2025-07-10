@@ -14,6 +14,6 @@ In addition to the core metrics, we will engineer new features that provide deep
 -The dataset has significantly more data from 2018 than 2017, which allows for better trend analysis in the more recent year.
 
 3. Correlation Insights:
--There's a notable positive correlation between views and comment count — more views typically lead to more user engagement.
--Likes and comment counts also share a strong correlation, suggesting active viewer appreciation leads to feedback.
--Additionally, videos with higher views tend to receive more likes, reinforcing the link between visibility and popularity.
+- There's a notable positive correlation between views and comment count — more views typically lead to more user engagement.
+- Likes and comment counts also share a strong correlation, suggesting active viewer appreciation leads to feedback.
+- Additionally, videos with higher views tend to receive more likes, reinforcing the link between visibility and popularity.
