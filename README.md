@@ -2,6 +2,8 @@
 This analysis explores various engagement metrics on YouTube, focusing on views, likes, dislikes, and comment activity. By leveraging data visualization techniques, we aim to uncover meaningful patterns and trends that influence video performance on the platform.
 In addition to the core metrics, we will engineer new features that provide deeper insights into how factors like category and trending dates impact viewer interactions. The dataset primarily comprises trending videos from California, and our visualizations will help us interpret the data more effectively.
 
+- Dataset used is from kaggle: https://www.kaggle.com/datasnaek/youtube-new
+
 # 🔍 Exploratory Data Analysis (EDA) Highlights
 1. Category Distribution:
 - Entertainment videos dominate the dataset, followed by Music and Movies.
